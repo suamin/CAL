@@ -1,0 +1,10 @@
+*.pyc
+logs/
+tmp/
+build/
+dist/
+*.db
+data/
+output/
+features/
+.ipynb_checkpoints/

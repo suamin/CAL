@@ -1,0 +1,5 @@
+gensim
+numpy
+scikit-learn
+scipy
+matplotlib
